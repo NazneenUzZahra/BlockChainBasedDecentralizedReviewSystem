@@ -42,3 +42,10 @@ Following are the project demo gifs:
 
 
 ![484jvm](https://user-images.githubusercontent.com/53296115/87320918-ffe70680-c544-11ea-85ec-d546b6af6d4b.gif)
+
+![484kn0](https://user-images.githubusercontent.com/53296115/87321647-f14d1f00-c545-11ea-8d4d-3656b766c80b.gif)
+
+![484l9f](https://user-images.githubusercontent.com/53296115/87322447-db8c2980-c546-11ea-9a3e-be92c9b4542a.gif)
+
+![484lfv](https://user-images.githubusercontent.com/53296115/87322461-dfb84700-c546-11ea-8498-7140000b00d4.gif)
+
