@@ -7,3 +7,7 @@ system incentivizes reviewers with Ether to provide their review. Service provid
 ability to assign tokens to reviewer in order to validate their reviews. This system also presents
 construction of system and its architecture related to front-end and back-end interfaces used
 by actors, it’s also tested for security and vulnerability of Ethereum smart code.
+
+Following are the project demo gifs:
+
+![484g6c](https://user-images.githubusercontent.com/53296115/87317626-b5638b00-c540-11ea-86b6-4a0bbcbfe2be.gif)
