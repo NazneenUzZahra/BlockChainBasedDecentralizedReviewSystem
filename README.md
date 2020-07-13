@@ -27,3 +27,18 @@ Following are the project demo gifs:
 ![484i5v](https://user-images.githubusercontent.com/53296115/87319233-c9a88780-c542-11ea-8894-5129f3ce658d.gif)
 
 ![484ic4](https://user-images.githubusercontent.com/53296115/87319398-02486100-c543-11ea-8b6d-1caf3c100ef0.gif)
+
+![484iuk](https://user-images.githubusercontent.com/53296115/87320043-d8dc0500-c543-11ea-8cd7-525f521c6bde.gif)
+
+![484j0t](https://user-images.githubusercontent.com/53296115/87320071-e09ba980-c543-11ea-9120-5674ea637d9e.gif)
+
+![484j5z](https://user-images.githubusercontent.com/53296115/87320390-5142c600-c544-11ea-994a-cc6518b1f7c6.gif)
+
+![484jdi](https://user-images.githubusercontent.com/53296115/87320412-59026a80-c544-11ea-976f-bf871d7e2504.gif)
+
+![484jio](https://user-images.githubusercontent.com/53296115/87320578-85b68200-c544-11ea-8695-e4fa5ad9c4ae.gif)
+
+![484jnq](https://user-images.githubusercontent.com/53296115/87320876-f067bd80-c544-11ea-9812-cd33a1fb3e35.gif)
+
+
+![484jvm](https://user-images.githubusercontent.com/53296115/87320918-ffe70680-c544-11ea-85ec-d546b6af6d4b.gif)
