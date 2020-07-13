@@ -40,7 +40,6 @@ Following are the project demo gifs:
 
 ![484jnq](https://user-images.githubusercontent.com/53296115/87320876-f067bd80-c544-11ea-9812-cd33a1fb3e35.gif)
 
-
 ![484jvm](https://user-images.githubusercontent.com/53296115/87320918-ffe70680-c544-11ea-85ec-d546b6af6d4b.gif)
 
 ![484kn0](https://user-images.githubusercontent.com/53296115/87321647-f14d1f00-c545-11ea-8d4d-3656b766c80b.gif)
